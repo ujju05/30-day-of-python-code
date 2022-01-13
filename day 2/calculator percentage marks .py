@@ -18,7 +18,7 @@ x=float(input('enter the total value ='))
 p=((v/x)*100)
 print('percentage =',p,'%')
 
-# programe for printing last,and first value
+# programe for printing last,and first string
 
 a=str(input('enter the word ='))
 print(a[0:1])

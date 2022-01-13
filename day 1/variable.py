@@ -5,7 +5,7 @@ print('total =',a+b)
 
 # add two strings and print output
 x=str(input('enter a 1st name or alphabet ='))
-y=str(input("enter 2nd name or alphabet"))
+y=str(input("enter 2nd name or alphabet ="))
 print('your name is =',x + y)
 
 # add two floats and print output
